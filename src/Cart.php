@@ -567,7 +567,7 @@ class Cart
      * Set the global tax rate for the cart.
      * This will set the tax rate for all items.
      *
-     * @param float $discount
+     * @param float $taxRate
      */
     public function setGlobalTax($taxRate)
     {
@@ -585,7 +585,7 @@ class Cart
      * Set the discount rate for the cart item with the given rowId.
      *
      * @param string    $rowId
-     * @param int|float $taxRate
+     * @param int|float $discount
      *
      * @return void
      */
