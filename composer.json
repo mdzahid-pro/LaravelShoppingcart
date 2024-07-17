@@ -1,5 +1,5 @@
 {
-    "name": "bumbummen99/shoppingcart",
+    "name": "mdzahid-pro/shoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -13,6 +13,11 @@
             "name": "Patrick Henninger",
             "email": "privat@skyraptor.eu",
             "homepage": "https://skyraptor.eu/"
+        },
+        {
+            "name": "Md Zahid",
+            "email": "mdzahid.pro@gmail.com",
+            "homepage": "https://devzahid.com"
         }
     ],
     "require": {
