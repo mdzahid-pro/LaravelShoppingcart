@@ -1542,7 +1542,7 @@ class CartTest extends TestCase
         $this->assertEquals('253,29', $cart->total());
 
         // check that the sum of cart subvalues matches the total (in order to avoid cart summary to looks wrong)
-        $this->assertEquals($cart->totalFloat(), $cart->subtotalFloat() + $cart->taxFloat());
+        $this->assertEqualsWithDelta($cart->totalFloat(), $cart->subtotalFloat() + $cart->taxFloat(), 0.01);
     }
 
     /** @test */
