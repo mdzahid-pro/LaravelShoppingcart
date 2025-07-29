@@ -11,7 +11,7 @@ Due to the difficulty experienced by certain individuals and companies in compre
 [![Latest Unstable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/unstable)](https://packagist.org/packages/bumbummen99/shoppingcart)
 [![License](https://poser.pugx.org/bumbummen99/shoppingcart/license)](https://packagist.org/packages/bumbummen99/shoppingcart)
 
-This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 8-11. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
+This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 8-12. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
 
 ## Installation
 
